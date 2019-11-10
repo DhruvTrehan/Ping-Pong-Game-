@@ -1,8 +1,8 @@
 # Ping-Pong-Game-
-#Python is used to build this program . 
-#Turtle module is used in this code . 
-#This game is a multiplayer game . 
-#The two players A and B have to use their keyboard buttons and slide their paddle and prevent the leaving of ball.  
+Python is used to build this program . 
+Turtle module is used in this code . 
+This game is a multiplayer game . 
+The two players A and B have to use their keyboard buttons and slide their paddle and prevent the leaving of ball.  
 
 import turtle #Command to import turtle in Python 
 
